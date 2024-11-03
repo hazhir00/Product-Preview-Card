@@ -15,8 +15,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Desctop-Screenshot.PNG.jpg)
-![](./Mobile-Screenshot.PNG.jpg)
+![](./Desctop-Screenshot.PNG/Desctop-Screenshot.PNG.jpg)
+![](./Mobile-Screenshot.PNG/Mobile-Screenshot.PNG.jpg)
 
 ### Links
 
